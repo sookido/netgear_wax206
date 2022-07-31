@@ -7,7 +7,7 @@ git clone https://github.com/bkerler/netgear_telnet
 cd netgear_telnet
 ```
 
-## 再起動しないと有効にならないことがある
+### 再起動しないと有効にならないことがある
 ```
 ./telnet-enable2.py 192.168.XX.XX 34:XX:XX:XX:XX:XX admin XXXX
 telnet 192.168.XX.XX
