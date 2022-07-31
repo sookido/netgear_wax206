@@ -1,9 +1,11 @@
 # netgear_wax206
 
-## telnet enable
+## telnet を有効にする
 
+```
 git clone https://github.com/bkerler/netgear_telnet
 cd netgear_telnet
+```
 
 ## 再起動しないと有効にならないことがある
 ```
